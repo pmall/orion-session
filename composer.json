@@ -1,0 +1,21 @@
+{
+    "name": "orion/session",
+    "type": "library",
+    "authors": [
+        {
+            "name": "pmall",
+            "email": "pierre.mallinjoud@gmail.com"
+        }
+    ],
+    "require": {
+        "container-interop/service-provider": "^0.4.0",
+        "ellipse/session-handler": "^1.0",
+        "ellipse/session-start": "^1.0",
+        "ellipse/session-validation": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Orion\\Session\\": "src"
+        }
+    }
+}
