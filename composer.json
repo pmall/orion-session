@@ -1,6 +1,6 @@
 {
     "name": "orion/session",
-    "type": "library",
+    "type": "project",
     "authors": [
         {
             "name": "pmall",
